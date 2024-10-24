@@ -56,7 +56,6 @@ INSTALLED_APPS = [
     'widget_tweaks',
     'sorl.thumbnail',
     'django_tables2',
-    'storages',
 ]
 
 MIDDLEWARE = [
